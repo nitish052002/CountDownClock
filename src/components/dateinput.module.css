@@ -1,0 +1,9 @@
+.time {
+  outline: none;
+  border: 2px solid white;
+  border-radius: 4px;
+  background: transparent;
+  padding: 15px;
+  color: inherit;
+  font-size: 1rem;
+}

@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Freeman&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Jersey+25+Charted&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(
+    217deg,
+    rgb(56, 248, 249) -9.1%,
+    rgb(213, 141, 240) 48%,
+    rgb(249, 56, 152) 111.1%
+  );
+  display: grid;
+  height: 100vh;
+  place-items: center;
+  color: white;
+  font-family: "Freeman", sans-serif;
+  font-weight: 400;
+ 
+}
+
